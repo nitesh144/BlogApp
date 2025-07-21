@@ -1,4 +1,5 @@
-Full Stack Blog Platform
+📝 Full Stack Blog Platform
+
 A fully functional Medium-like blog platform built using a modern full stack including React, TypeScript, Prisma, Cloudflare Workers, PostgreSQL, and AWS. Features include user authentication, blog creation, editing, viewing, and backend API deployment.
 
 🚀 Tech Stack
@@ -12,7 +13,7 @@ React Router DOM
 TypeScript
 
 🌐 Backend
-Cloudflare Workers (via Hono framework)
+Cloudflare Workers (Hono framework)
 
 Prisma ORM with Accelerate
 
@@ -30,9 +31,9 @@ Type-safe types shared across frontend and backend
 Published as an internal npm package
 
 ☁️ Cloud & Deployment
-Cloudflare (for backend)
+Cloudflare (backend deployment)
 
-AWS (EC2, S3, CloudFront, Route 53 for frontend)
+AWS (EC2, S3, CloudFront, Route 53 for frontend deployment)
 
 Monorepo project structure
 
@@ -41,11 +42,11 @@ php
 Copy
 Edit
 medium-clone/
-├── backend/       # Cloudflare Worker + Hono + Prisma APIs
-├── frontend/      # React + Vite + Tailwind frontend
-├── common/        # Shared types and zod schemas
+├── backend/     # Cloudflare Worker + Hono + Prisma APIs
+├── frontend/    # React + Vite + Tailwind frontend
+├── common/      # Shared types and Zod schemas
 🔐 Features
-✅ User Signup & Signin (with JWT auth)
+✅ User Signup & Signin (with JWT authentication)
 
 ✍️ Create, Edit, and View Blogs
 
@@ -66,4 +67,3 @@ PostgreSQL (NeonDB or any hosted version)
 AWS & Cloudflare accounts
 
 Git
-
