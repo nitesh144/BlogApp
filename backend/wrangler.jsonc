@@ -5,8 +5,7 @@
   "compatibility_date": "2025-07-16",
   
    "vars": {
-     "DATABASE_URL": "prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqd3RfaWQiOjEsInNlY3VyZV9rZXkiOiJza19vbE92Sl9TZElkcndETUROZmVENGwiLCJhcGlfa2V5IjoiMDFLMDlRR1gxRkE5NllQVzQzWVFRUzlNVE0iLCJ0ZW5hbnRfaWQiOiJmMWJiMjU2NGE2YWQ5OWJiNzUwOGVkZTc1NzEzNjEwYmE0NjY4ZGFiYzVkYTgyMzM4YzhkOGFmYzBiZDM3MzY1IiwiaW50ZXJuYWxfc2VjcmV0IjoiMzZjMzEyZDgtODcyNS00MmEyLWFiYWEtYTY1OWI4ZDczMmM0In0.-tdtwzsymXwiCQaW_aH_ZaazPTRHxczSs4y2aaK2Vz0",
-     "JWT_SECRET":"asdddasd"
+     
    
     },
   // "kv_namespaces": [
